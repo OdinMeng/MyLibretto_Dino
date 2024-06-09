@@ -1,0 +1,7 @@
+# Note: to be removed, made for myself to "decipher" the emanings of the "stato" field
+
+0 -> Non superato
+1 -> Superato con voto
+2 -> Superato con idoneità
+
+data_superamento: YYYY.MM.DD
